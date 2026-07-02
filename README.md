@@ -22,4 +22,3 @@ A modern scientific calculator built using HTML, CSS, and JavaScript.
 ## Author
 
 Shivansh Silswal
-``
